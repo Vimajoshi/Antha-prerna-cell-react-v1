@@ -9,8 +9,8 @@ function App() {
     <div>
       <Header />
       <Body />
+      {/* <Login /> */}
       <Footer />
-      <Login />
     </div>
   );
 }

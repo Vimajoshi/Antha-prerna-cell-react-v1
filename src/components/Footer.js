@@ -156,10 +156,10 @@ function Footer() {
               </div>
 
               <div>
-                <a href="tel:+2484214313" className="footer-item-link">
+                <a href="tel:+2484214313" className="footer-item-link" style={{ color: "white" }}>
                   +248-421-4313
                 </a>
-                <a href="tel:+2486871365" className="footer-item-link">
+                <a href="tel:+2486871365" className="footer-item-link" style={{ color: "white" }}>
                   +248-687-1365
                 </a>
               </div>
@@ -171,10 +171,10 @@ function Footer() {
               </div>
 
               <div>
-                <a href="mailto:info@desinic.com" className="footer-item-link">
+                <a href="mailto:info@desinic.com" className="footer-item-link" style={{ color: "white" }}>
                   info@desinic.com
                 </a>
-                <a href="mailto:help@desinic.com" className="footer-item-link">
+                <a href="mailto:help@desinic.com" className="footer-item-link" style={{ color: "white" }}>
                   help@desinic.com
                 </a>
               </div>

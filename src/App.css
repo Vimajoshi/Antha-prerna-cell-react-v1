@@ -1,4 +1,3 @@
-
 /*-----------------------------------*\
   #style.css
 \*-----------------------------------*/
@@ -572,7 +571,7 @@ body {
 }
 
 .service-card .card-icon {
-  background-image: url("../public/images/service-banner-pattern.png");
+  /* background-image: url("../public/images/service-banner-pattern.png"); */
   background-repeat: no-repeat;
   background-size: contain;
   background-color: hsla(335, 87%, 53%, 0.12);
@@ -607,6 +606,7 @@ body {
 .service-card .text {
   text-align: center;
   margin-block-end: 20px;
+  color: black;
 }
 
 .service-card .card-btn {
@@ -824,6 +824,7 @@ body {
 }
 
 .footer-link {
+  color: white;
   padding-block: 5px;
 }
 
